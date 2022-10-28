@@ -16,8 +16,6 @@
         
         <div class="form">
             <form action="" method="post">
-                <label for="nama">Nama</label><br>
-                <input type="text" name="" class="input" placeholder="Masukkan nama"><br>
 
                 <label for="email">Email</label><br>
                 <input type="email" name="" class="input" placeholder="Masukkan email"><br>

@@ -43,19 +43,6 @@
                     <td>Eko</td>
                     <td>IF</td>
                 </tr>
-
-                <tr>
-                    <td>1</td>
-                    <td>028</td>
-                    <td>Eko</td>
-                    <td>IF</td>
-                </tr>
-                <tr>
-                    <td>1</td>
-                    <td>028</td>
-                    <td>Eko</td>
-                    <td>IF</td>
-                </tr>
                 
             </table>
         </div>
